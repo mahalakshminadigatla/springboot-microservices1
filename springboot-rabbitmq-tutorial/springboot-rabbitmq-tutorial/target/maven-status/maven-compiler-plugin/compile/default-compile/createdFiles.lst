@@ -1,0 +1,5 @@
+com\example\springbootrabbitmqtutorial\publisher\RabbitMQProducer.class
+com\example\springbootrabbitmqtutorial\controller\MessageController.class
+com\example\springbootrabbitmqtutorial\config\RabbitMQConfig.class
+com\example\springbootrabbitmqtutorial\consumer\RabbitMQConsumer.class
+com\example\springbootrabbitmqtutorial\SpringbootRabbitmqTutorialApplication.class
